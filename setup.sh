@@ -13,7 +13,7 @@ wget https://raw.githubusercontent.com/NotSoSecure/password_cracking_rules/maste
 cd ..
 mkdir wordlist
 cd wordlist
-wget http://gratispentest.nl/wordlist/ASLM(freq_sorted).txt
+
 cd ..
 apt -y install apache2
 apt -y install ufw
